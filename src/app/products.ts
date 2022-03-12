@@ -10,7 +10,7 @@ export const products = [
     id: 1,
     name: 'ChristianPhone',
     price: 9999,
-    description: 'Não acompanha bateria.'
+    description: 'Battery charger not included.'
   },
   {
     id: 2,
